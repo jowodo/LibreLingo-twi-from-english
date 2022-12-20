@@ -69,10 +69,10 @@ https://github.com/pur80a/LibreLingo
     - https://www.ghana.gov.gh/mdas/bfc72f13cc/
     - https://www.bg-l.site
   - further learning resources:
-    - learnakan.com
-    - kasahorow 
-    - google translate 
-    - anki 
+    - https://learnakan.com 
+    - https://www.kasahorow.org/node/210
+    - [google translate](https://translate.google.com/?sl=ak&tl=en)
+    - Anki flashcard decks: [conversation](https://ankiweb.net/shared/info/1863265353), [phrases around the house](https://ankiweb.net/shared/info/1898840477), [market](https://ankiweb.net/shared/info/1587304533) and [greetings (not hosted on ankiweb.net anymore)](https://wlankabel.at/john/cloud/twi/Twi_-_Greeting__Responses.apkg) 
 - how to help with this course
 - process 
 
