@@ -1,0 +1,14 @@
+Skill:
+  Name: Alphabet
+  Id: 0
+  Thumbnails:
+    - dog1
+    - lion3
+    - cat3
+  
+New words:
+  - Word: ABD
+    Translation: ABC
+Phrases:
+  - Phrase: ABD
+    Translation: ABC

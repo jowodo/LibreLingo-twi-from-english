@@ -1,0 +1,113 @@
+Skill:
+  Name: Pronouns
+  Id: 1
+  Thumbnails:
+    - dog1
+    - lion3
+    - cat3
+  
+New words:
+  - Word: me
+    Translation: I
+    Also accepted:
+      - me
+      - my
+    Images:
+      - dog1
+      - dog2
+      - dog3
+
+  - Word: wo
+    Translation: you 
+    Also accepted:
+      - you
+      - you (sg.)
+      - you (sg.)
+    Images:
+      - cat1
+      - cat2
+      - cat3
+
+  - Word: ɔno
+    Synonyms:
+      - ɔ
+    Translation: he/she
+    Also accepted:
+      - he
+      - she 
+      - they
+    Images:
+      - bear1
+      - bear2
+      - bear1
+
+  - Word: ɛno
+    Synonyms:
+      - ɛ
+    Translation: it
+    Images:
+      - bear1
+      - bear2
+      - bear1
+
+  - Word: yɛn
+    Synonyms: 
+      - yɛ
+    Translation: we
+    Also accepted:
+      - our
+    Images:
+      - lion1
+      - lion2
+      - lion3
+
+  - Word: mo
+    Translation: you 
+    Also accepted:
+      - you 
+      - you (pl.)
+    Images:
+      - duck1
+      - duck2
+      - duck3
+
+  - Word: wɔnom
+    Synonyms: 
+      - weinom
+      - wɔn
+    Translation: they
+    Also accepted:
+      - their
+    Images:
+      - horse1
+      - horse2
+      - horse3
+
+Phrases: 
+  - Phrase: Me dɔ wo
+    Translation: I love you
+
+  - Phrase: Wɔn pɛ ɛno
+    Translation: They want it
+
+Mini-dictionary:
+  Twi:
+    - dɔ: love 
+    - pɛ: 
+      - like 
+      - want
+    - wo: you (sg.)
+    - mo: you (pl.)
+    - wɔn: they
+
+  English:
+    - love: dɔ
+    - want: pɛ
+    - like: pɛ 
+    - you:
+      - wo
+      - mo
+
+
+
+  
