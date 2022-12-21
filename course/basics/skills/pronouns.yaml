@@ -1,6 +1,6 @@
 Skill:
   Name: Pronouns
-  Id: 1
+  Id: pronouns
   Thumbnails:
     - dog1
     - lion3
@@ -13,9 +13,9 @@ New words:
       - me
       - my
     Images:
-      - dog1
-      - dog2
-      - dog3
+      - me1
+      - me2
+      - me3
 
   - Word: wo
     Translation: you 
@@ -24,9 +24,9 @@ New words:
       - you (sg.)
       - you (sg.)
     Images:
-      - cat1
-      - cat2
-      - cat3
+      - you1
+      - you2
+      - you3
 
   - Word: ɔno
     Synonyms:
@@ -37,18 +37,21 @@ New words:
       - she 
       - they
     Images:
-      - bear1
-      - bear2
-      - bear1
+      - she1
+      - she2
+      - she3
+      - he1
+      - he2
+      - he3
 
   - Word: ɛno
     Synonyms:
       - ɛ
     Translation: it
     Images:
-      - bear1
-      - bear2
-      - bear1
+      - this1
+      - this2
+      - this3
 
   - Word: yɛn
     Synonyms: 
@@ -57,9 +60,9 @@ New words:
     Also accepted:
       - our
     Images:
-      - lion1
-      - lion2
-      - lion3
+      - we1
+      - we2
+      - we3
 
   - Word: mo
     Translation: you 
@@ -67,9 +70,9 @@ New words:
       - you 
       - you (pl.)
     Images:
-      - duck1
-      - duck2
-      - duck3
+      - youall1
+      - youall2
+      - youall3
 
   - Word: wɔnom
     Synonyms: 
@@ -79,16 +82,20 @@ New words:
     Also accepted:
       - their
     Images:
-      - horse1
-      - horse2
-      - horse3
+      - they1
+      - they2
+      - they3
 
 Phrases: 
   - Phrase: Me dɔ wo
     Translation: I love you
+    Alternative translation: 
+      - Medɔ wo
 
   - Phrase: Wɔn pɛ ɛno
     Translation: They want it
+    Alternative translation: 
+      - Wɔpɛ ɛno
 
 Mini-dictionary:
   Twi:
@@ -107,7 +114,5 @@ Mini-dictionary:
     - you:
       - wo
       - mo
-
-
 
   

@@ -2,9 +2,10 @@ Module:
   Name: "Basics"
 
 Skills:
-- alphabet.yaml
-- pronouns.yaml
+#- alphabet.yaml
 # - diagraphs.yaml
-# - animals.yaml
+- animals1.yaml
+- animals2.yaml
+- pronouns.yaml
 # - food.yaml
 # - basic-nouns.yaml

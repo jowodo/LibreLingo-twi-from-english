@@ -1,7 +1,7 @@
 Course:
   Language:
     Name: Twi
-    IETF BCP 47: twi
+    IETF BCP 47: tw
 
   For speakers of:
     Name: English
@@ -25,4 +25,4 @@ Modules:
 
 Settings:
     Audio:
-      Enabled: True
+      Enabled: False

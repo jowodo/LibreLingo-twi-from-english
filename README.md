@@ -6,7 +6,7 @@ LibreLingo Twi course for English speakers
 - Twi-from-english
 	- basics 
 		- abd #grammar 
-		- pronoms: me, wo, ono, eno, yen, mo, wonom	#grammar
+		- pronouns: me, wo, ono, eno, yen, mo, wonom	#grammar
 		- diagraphs	#grammar
 		- animals 
 		- food
@@ -77,6 +77,7 @@ https://github.com/pur80a/LibreLingo
 - process 
 
 ## set up of developement environment on macos with homebrew
+goes to https://github.com/LibreLingo/LibreLingo/blob/main/docs/index.md 
 
 ```
 brew update 
