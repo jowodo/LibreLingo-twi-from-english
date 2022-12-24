@@ -1,0 +1,93 @@
+Skill:
+  Name: Animals 2
+  Id: animals2
+  Thumbnails:
+    - cow2
+    - lion2
+    - sheep3
+  
+New words:
+  - Word: aboa
+    Translation: animal
+    Images:
+      - heart1
+      - heart2
+      - heart3
+
+New words:
+  - Word: mboa
+    Translation: animals
+    Images:
+      - heart1
+      - heart2
+      - heart3
+
+  - Word: nantwi
+    Synonyms:
+      - nantwie
+    Translation: cow
+    Also accepted:
+      - catttle
+    Images:
+      - cow1
+      - cow2
+      - cow3
+
+  - Word: gyata
+    Synonyms:
+      - agyata
+    Translation: lion
+    Images:
+      - lion1
+      - lion2
+      - lion3
+
+  - Word: odwan
+    Translation: sheep
+    Images:
+      - sheep1
+      - sheep2
+      - sheep3
+
+  - Word: akyekyedeɛ
+    Translation: tortoise
+    Images:
+      - turtle1
+      - turtle2
+      - turtle3
+
+      # aboa, mboa, nantwi, gyata, odwan, akyekyedeɛ, nwa
+  - Word: nwa
+    Translation: snail
+    Images:
+      - snail1
+      - snail2
+      - snail3
+
+Phrases: 
+  - Phrase: Ɛyɛ odwan
+    Translation: It's a sheep
+    Alternative translation: 
+      - It is a sheep
+
+  - Phrase: Ɛnyɛ gyata
+    Translation: It is not a lion
+    Alternative translation: 
+      - It's not a lion
+      - It isn't a lion
+
+Mini-dictionary:
+  English:
+    - a: indefinite article (not translated)
+  Twi: []
+
+Two-way-dictionary:
+  - it's : ɛyɛ
+  - it is : ɛyɛ
+  - it : ɛno
+  - it : ɛ 
+  - is : yɛ
+  - the : no
+  - not : n
+  - it isn't : ɛnyɛ
+  - it is not : ɛnyɛ

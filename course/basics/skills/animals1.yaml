@@ -1,0 +1,114 @@
+Skill:
+  Name: Animals 1
+  Id: animals1
+  Thumbnails:
+    - dog1
+    - cat3
+    - pig1
+
+New words:
+  - Word: akokɔ
+    Synonyms:
+      - akokɔnam
+    Translation: chicken
+    Also accepted:
+      - cock
+      - fowl
+    Images:
+      - chicken1
+      - chicken2
+      - chicken3
+
+  - Word: prako
+    Synonyms:
+      - prɛko
+    Translation: pig
+    Also accepted:
+      - swine
+    Images:
+      - pig1
+      - pig2
+      - pig3
+
+  - Word: ɔkra
+    Synonyms:
+      - kra
+    Translation: cat
+    Images:
+      - cat1
+      - cat2
+      - cat3
+
+  - Word: ɔkraman
+    Synonyms:
+      - kraman
+    Translation: dog
+    Images:
+      - dog1
+      - dog2
+      - dog3
+
+  - Word: kɔtɔ
+    Translation: crab
+    Also accepted:
+      - crawfish
+    Images:
+      - crawfish1
+      - crawfish2
+      - crawfish3
+
+  - Word: dabodabo
+    Translation: duck
+    Images:
+      - duck1
+      - duck2
+      - duck3
+
+  - Word: ɔsono
+    Synonyms: 
+      - sono
+      - ɛsono
+    Translation: elephant
+    Images:
+      - elephant1
+      - elephant2
+      - elephant3
+
+  - Word: akura
+    Translation: mouse
+    Images:
+      - mouse1
+      - mouse2
+      - mouse3
+
+# akoko prako yoma okra okramam koto dabodabo osono ntomntom akura owo ananse eye owo
+
+Phrases: 
+  - Phrase: Ɛyɛ ɔkra
+    Alternative versions:
+      - Ɛno yɛ ɔkra
+      - Ɛnoyɛ ɔkra
+      - Ɛyɛ kra.
+    Translation: It's a cat
+    Alternative translations:
+      - It is a cat
+          
+
+
+  - Phrase: Ɛyɛ ɔkra no
+    Translation: It is the cat
+    Alternative translations:
+      - It's the cat
+
+Mini-dictionary:
+  English:
+    - a: indefinite article (not translated)
+  Twi: []
+
+Two-way-dictionary:
+  - it's : ɛyɛ
+  - it is : ɛyɛ
+  - it : ɛno
+  - it : ɛ 
+  - is : yɛ
+  - the : no

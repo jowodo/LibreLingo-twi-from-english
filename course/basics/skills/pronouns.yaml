@@ -19,10 +19,6 @@ New words:
 
   - Word: wo
     Translation: you 
-    Also accepted:
-      - you
-      - you (sg.)
-      - you (sg.)
     Images:
       - you1
       - you2
@@ -65,10 +61,9 @@ New words:
       - we3
 
   - Word: mo
-    Translation: you 
+    Translation: youall
     Also accepted:
       - you 
-      - you (pl.)
     Images:
       - youall1
       - youall2
@@ -97,22 +92,16 @@ Phrases:
     Alternative translation: 
       - Wɔpɛ ɛno
 
-Mini-dictionary:
-  Twi:
-    - dɔ: love 
-    - pɛ: 
-      - like 
-      - want
-    - wo: you (sg.)
-    - mo: you (pl.)
-    - wɔn: they
+  - Phrase: Me dɔ me ho 
+    Translation: I love myself 
+    Alternative translation:
+      - I love my body 
+      - I love my self 
 
-  English:
-    - love: dɔ
-    - want: pɛ
-    - like: pɛ 
-    - you:
-      - wo
-      - mo
-
-  
+Two-way-dictionary:
+  - love: dɔ
+  - want: pɛ
+  - like: pɛ 
+  - they: wɔn
+  - myself: me ho
+  - self: ho

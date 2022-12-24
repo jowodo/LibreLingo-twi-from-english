@@ -116,3 +116,19 @@ cd ../..
 pip install yaml8
 yarn exportAllCourses
 ```
+
+feedback
+- mehr saetze 
+- frueh coole saetze : affirmations, citate 
+- lustige sachen, memes 
+- fuer alltag nuetzliche sachen 
+- pronomes & affirmations 
+- essen und rezepte 
+- koerper umd movements 
+- deine augen sind gross
+- affirmation = pronomen + adjektive 
+- affirmation, dann fuehlt man sich gut 
+- zahlen + obst
+- farben
+- trocken und saftige skills abwechselnd 
+- wenn kein bild passt nur ein bild aussuchen, damit anker
