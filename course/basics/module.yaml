@@ -4,8 +4,9 @@ Module:
 Skills:
 #- alphabet.yaml
 # - diagraphs.yaml
-- animals1.yaml
-- animals2.yaml
-- pronouns.yaml
+  - animals1.yaml
+  - animals2.yaml
+  - pronouns.yaml
+  - greetings.yaml
 # - food.yaml
 # - basic-nouns.yaml

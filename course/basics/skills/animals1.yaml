@@ -2,9 +2,9 @@ Skill:
   Name: Animals 1
   Id: animals1
   Thumbnails:
-    - dog1
-    - cat3
     - pig1
+    - dog1
+    - cat2
 
 New words:
   - Word: akokɔ
@@ -84,6 +84,18 @@ New words:
 # akoko prako yoma okra okramam koto dabodabo osono ntomntom akura owo ananse eye owo
 
 Phrases: 
+  - Phrase: Akura no yɛ ketewa
+    Translation: The mouse is small
+          
+Phrases: 
+  - Phrase: Ɛsono no yɛ kɛse 
+    Alternative versions:
+      - Ɛsono no yɛ kɛseɛ
+      - Sono no yɛ kɛse
+      - Ɛsono no yɛ kɛse
+    Translation: The elephant is big
+          
+Phrases: 
   - Phrase: Ɛyɛ ɔkra
     Alternative versions:
       - Ɛno yɛ ɔkra
@@ -92,8 +104,6 @@ Phrases:
     Translation: It's a cat
     Alternative translations:
       - It is a cat
-          
-
 
   - Phrase: Ɛyɛ ɔkra no
     Translation: It is the cat

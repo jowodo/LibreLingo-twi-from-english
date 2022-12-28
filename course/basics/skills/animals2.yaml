@@ -3,24 +3,19 @@ Skill:
   Id: animals2
   Thumbnails:
     - cow2
-    - lion2
     - sheep3
+    - lion2
   
 New words:
   - Word: aboa
     Translation: animal
     Images:
       - heart1
-      - heart2
-      - heart3
 
-New words:
   - Word: mboa
     Translation: animals
     Images:
-      - heart1
       - heart2
-      - heart3
 
   - Word: nantwi
     Synonyms:
@@ -43,20 +38,14 @@ New words:
       - lion3
 
   - Word: odwan
+    Synonyms:
+      - dwan
     Translation: sheep
     Images:
       - sheep1
       - sheep2
       - sheep3
 
-  - Word: akyekyedeɛ
-    Translation: tortoise
-    Images:
-      - turtle1
-      - turtle2
-      - turtle3
-
-      # aboa, mboa, nantwi, gyata, odwan, akyekyedeɛ, nwa
   - Word: nwa
     Translation: snail
     Images:
@@ -76,6 +65,16 @@ Phrases:
       - It's not a lion
       - It isn't a lion
 
+  - Phrase: Nwa no nyɛ kɛse
+    Alternative versions:
+      - Nwa no nyɛ kɛseɛ
+    Translation: The snail is not big
+
+  - Phrase: Agyata no nyɛ ketewa
+    Alternative versions:
+      - Gyata no nyɛ ketewa
+    Translation: The lion is not small
+
 Mini-dictionary:
   English:
     - a: indefinite article (not translated)
@@ -91,3 +90,8 @@ Two-way-dictionary:
   - not : n
   - it isn't : ɛnyɛ
   - it is not : ɛnyɛ
+  - is not : nyɛ
+  - big : kɛse
+  - small : ketewa
+  - lion : agyata
+

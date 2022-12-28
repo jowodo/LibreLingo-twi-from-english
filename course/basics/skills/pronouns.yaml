@@ -5,6 +5,10 @@ Skill:
     - dog1
     - lion3
     - cat3
+
+New Characters:
+  - Charecter: α
+  - Transliteration: a 
   
 New words:
   - Word: me
@@ -90,13 +94,41 @@ Phrases:
   - Phrase: Wɔn pɛ ɛno
     Translation: They want it
     Alternative translation: 
+      - Wɔn pɛ no
+      - Wɔpɛ no
       - Wɔpɛ ɛno
+      - Weinom pɛ no
+      - Weinom pɛ ɛno
 
   - Phrase: Me dɔ me ho 
     Translation: I love myself 
     Alternative translation:
       - I love my body 
       - I love my self 
+
+  - Phrase: Yɛn nante
+    Translation: We walk
+
+  - Phrase: Me ne wo nante
+    Translation: You and I walk
+
+  - Phrase: Mo nda 
+    Translation: youall don't sleep
+
+  - Phrase: Ɔno kɔ fie
+    Translation: He/she goes home 
+
+  - Phrase: Ɔkɔ fie
+    Translation: He/she goes home 
+
+  - Phrase: yɛ sua
+    Translation: we learn
+
+  - Phrase : wɔn nsua 
+    Translation: they don't learn
+
+  - Phrase: me tumi sua
+    Translation: I can learn
 
 Two-way-dictionary:
   - love: dɔ
@@ -105,3 +137,15 @@ Two-way-dictionary:
   - they: wɔn
   - myself: me ho
   - self: ho
+  - walk : nante 
+  - sleep : da 
+  - lie : da 
+  - don't : n 
+  - can : tumi
+  - learn : sua 
+  - home : fie 
+  - and : ne
+  - don't sleep : nda
+  - don't learn : nsua
+  - goes : kɔ
+  - she/he goes : ɔkɔ
