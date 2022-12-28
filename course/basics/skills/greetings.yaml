@@ -1,0 +1,86 @@
+Skill:
+  Name: Greetings
+  Id: twi-greetings0
+  Thumbnails:
+    - hello1
+    - hello2
+    - hello3
+  
+New words:
+  - Word: medaase
+    Synonyms: 
+      - me da wo ase
+    Translation: thanks
+    Images:
+      - thankyou1
+      - thankyou2
+      - thankyou3
+
+  - Word: mepaakyew
+    Synonyms:
+      - me pa wo kyew
+    Translation: please
+    Images:
+      - please1
+      - please2
+      - please3
+
+  - Word: akwaaba
+    Translation: welcome 
+    Images:
+      - hug1
+      - hug2
+      - hug3
+
+Phrases: 
+  - Phrase: Wo ho te sɛn?
+    Translation: How are you?
+    Alternative translation: 
+      - How are you doing?
+
+  - Phrase: Me ho yɛ
+    Translation: I am fine
+    Alternative translation: 
+      - I'm fine
+      - I'm good
+      - I am good
+
+  - Phrase: Ɛte sɛn?
+    Translation: What's up?
+
+  - Phrase: Ɛyɛ
+    Translation: All good
+
+  - Phrase : Me da wo ase 
+    Translation : thank you 
+
+Mini-dictionary:
+  English:
+    - a: indefinite article (not translated)
+  Twi: []
+
+Two-way-dictionary:
+  - how : sɛn
+  - good : yɛ
+  - self : ho
+  - body : ho
+  - I'm good : me ho yɛ
+  - all good : ɛyɛ
+  - sit : te 
+  - how are you : wo ho te sɛn
+  - are : yɛ
+  - I : me 
+  - my : me 
+  - am : yɛ
+  - fine : yɛ
+  - am fine : yɛ
+  - what's : ɛte sɛn
+  - up : ɛte sɛn
+  - it's going : ɛte
+  - welcome : akwaaba
+  - please : mepaakyew 
+  - thanks : medaase
+  - lie : da 
+  - you : wo 
+  - under : ase
+  - thank : da ... ase 
