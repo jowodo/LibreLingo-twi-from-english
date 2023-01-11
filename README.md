@@ -1,60 +1,67 @@
 # LibreLingo-twi-from-english
 LibreLingo Twi course for English speakers
 
-## Initially proposed course structure
-
-- Twi-from-english
-	- basics 
-		- abd #grammar 
-		- pronouns: me, wo, ono, eno, yen, mo, wonom	#grammar
-		- diagraphs	#grammar
-		- animals 
-		- food
+Initially proposed course structure
+-----------------------------------
+- Twi-from-english [*course*] 
+	- basics [*module*]
+		- animals1 (teach open o and open e) [*skill*]
+		- animals2 (teach diagraphs hy, hw, ky, tw, etc
+		- pronouns: me, wo, ono, ɛho, yen, mo, wono	
 		- basic nouns: efie, edan
 	- introduction 
-		- mepa wo kyewm, akwaaba, medaase, ete sen, aane, daabi
+		- greetings
+		- mepa wo kyew, akwaaba, medaase, ete sen, aane, daabi
+		- basic questions
 		- me din de, me te, madi mfe, me firi 
-	- activities and location
-		- ye ne wo, ne ne na 	#grammar
-		- verbs: negation 	#grammar
-		- movement: ko, ba, firi, nante, dane 
-		- dwene, twere, kenkan, kan, kyere, hwoma, kasa, ka, te, te ase, to dwom
-	- numbers: 
-		- 0-5
-		- 5-10
-		- 11-20
-		- 10-100
-		- 0-1000
-	- body parts 
-		- ti wabeti kotodwe nansoa  
-		- rest of body parts 
-	- grammar 2
-		- prepopisitons: mu, ase, soro, 	#grammar
-		- conjunction: ne, na, nanso, se, a, efise, nti	#grammar
-		- adjectives: foforo, fefeefe, kesie, dendeende	#grammar
-	- home
-		- rooms 
-		- gegenstaende
-	- cooking 
-		- food: nua, nam, di, didi, aduane, nso, kube nso, duaba nsu mu, akokonam, aburo
-	- questions 
-		- questions words
-		- grammar sentence order 
-	- pronouns and articles
-		- obi, obiara, obiara n 
-		- articles: no, bi, wei, yi  	#grammar
-	- time #grammar
-		- time adverbs: seisei, sesiaa, dabiara, okyena, enora, nawotwe, 
-		- tenses
-		- abo sen, mmere ben, da ben, da bi, 
-		- reading the clock
-		- week days: dwoada, benada, wukuada, yawoada, fiada, memeneda, kwasiada
-		- names
-	- going to the market 
+	- family
+	- directions (left right, turn, there, here, activity and locations)
+	- market (fruits, veggies, meat, seasonings)
+	- time week days + adverbs today, now later (when)
+	- cooking
+	- home (items and rooms)
+	- hobbies
+	- watch + numbers
+	- body parts and movements (head sholders knees and toes)
+	- personal hygiene 
+	- colors
+	- names
 	- religion: nyame, onyankopon, awuradee, 
 	- nsem den: kwasia, gyimini 
+	- proverbs
 
-## Useful links
+Each module should have: 
+------------------------
+- a theme 
+- a grammar focus 
+- some new words (easily visually representable) 
+- new verbs 
+- sentences and dialogue excerpts 
+	
+Grammar to be included into modules and skills: 
+--------
+	- yɛ vs wɔ
+	- ne vs na
+	- negation 
+	- tenses fut, pres. cont., past, perfect 
+	- plural 
+	- negations 
+	- prepositions 
+	- questions (sentence order)
+	- conjunctions
+	- possesive pronouns 
+	- articles (no, bi, wei, yi)
+	- personal pronouns (obi, obiara, obiara en)
+	- numbers
+	- cardinal numbers
+
+Words to include:
+-----------------
+**verbs**: ko, ba, firi, nante, dane, dwene, twere, kenkan, kan, kyere, hwoma, kasa, ka, te, te ase, to dwom, di, didi, nua, nom
+**adjectives**: foforo, fefeefe, kesie, dendeende	#grammar
+**adverbs**: nso, seisei, sesiara, dabiara, okyena, enora, nawotwe
+
+## Useful LiLi links
 
 https://github.com/RGBradley/LibreLingo-EU-from-EN
 https://github.com/LibreLingo/LibreLingo/discussions/2187
@@ -63,8 +70,8 @@ https://github.com/pur80a/LibreLingo
 
 ## todo
 
-- make course tree 
-- make readme.de 
+Usful links: 
+------------
   - about twi, me amd this course
     - https://www.ghana.gov.gh/mdas/bfc72f13cc/
     - https://www.bg-l.site
@@ -73,10 +80,17 @@ https://github.com/pur80a/LibreLingo
     - https://www.kasahorow.org/node/210
     - [google translate](https://translate.google.com/?sl=ak&tl=en)
     - Anki flashcard decks: [conversation](https://ankiweb.net/shared/info/1863265353), [phrases around the house](https://ankiweb.net/shared/info/1898840477), [market](https://ankiweb.net/shared/info/1587304533) and [greetings (not hosted on ankiweb.net anymore)](https://wlankabel.at/john/cloud/twi/Twi_-_Greeting__Responses.apkg) 
+
+ToDos: 
+------
 - how to help with this course
 - process 
+- pair themes with grammar focus points
+- add this course to the official lili dev courses
+- add macos docs to official lili docs 
 
-## set up of developement environment on macos with homebrew
+Set up of developement environment on macos with homebrew
+---------------------------------------------------------
 goes to https://github.com/LibreLingo/LibreLingo/blob/main/docs/index.md 
 
 ```
@@ -115,6 +129,7 @@ cd ../..
 #optional
 pip install yaml8
 yarn exportAllCourses
+yarn web dev 
 ```
 
 feedback
@@ -132,3 +147,5 @@ feedback
 - farben
 - trocken und saftige skills abwechselnd 
 - wenn kein bild passt nur ein bild aussuchen, damit anker
+
+proverbs > conjunctions, plurals, verbs, nouns, tenses, pronouns >
