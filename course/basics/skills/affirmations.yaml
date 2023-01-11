@@ -1,0 +1,128 @@
+Skill:
+  Name: Affirmations 
+  Id: twi-affirmations-0
+  Thumbnails:
+    - hug3
+    - imfine2
+    - man2
+
+New words:
+  - Word: adamfo
+    Synonyms:
+      - adamfo
+    Translation: friend
+    Also accepted:
+      - my
+    Images:
+      - friend1
+      - friend2
+      - friend3
+
+  - Word: kwan
+    Synonyms:
+      - ɔkwan
+    Translation: road 
+    Also accepted:
+      - way
+    Images:
+      - road1
+      - road2
+      - road3
+
+  - Word: da
+    Translation: sleep
+    Also accepted:
+      - lie
+      - lay down
+    Images:
+      - today1
+      - today2
+      - today3
+
+Phrases: 
+  - Phrase: me yɛ fɛfɛɛfɛ
+    Translation: I am beautiful 
+
+  - Phrase: me kɔ me kwan
+    Translation: I go my way
+
+  - Phrase: me te me 
+    Translation: I hear me 
+
+  - Phrase: me tumi yɛ ɛno 
+    Translation: I can do it 
+
+  - Phrase: me pɛ me ho
+    Translation: I like myself 
+
+  - Phrase: me pɛ me 
+    Translation: I like me 
+
+  - Phrase: me nyɛ hwee 
+    Translation: I do nothing
+
+  - Phrase: me tumi ka dabi 
+    Translation: I can say no 
+
+  - Phrase: me pɛ 
+    Translation: I want 
+ 
+  - Phrase: me mpɛ 
+    Translation: I don't want 
+
+  - Phrase: me pɛ sɛ me da 
+    Translation: I like to sleep
+
+  - Phrase: me boa wo 
+    Translation: I help you 
+
+    #  - Phrase: wo tumi boa me anaa 
+    #Translation: can you help me
+
+Two-way-dictionary:
+  - I : me 
+  - am : yɛ
+  - beautiful : fɛfɛɛfɛ
+  - beautiful : fɛ
+  - go : kɔ
+  - my : me 
+  - way : kwan 
+  - road : kwan 
+  - hear : te 
+  - listen : te 
+  - can : tumi 
+  - it : ɛno 
+  - me : me 
+  - do : yɛ
+  - don't do : nyɛ
+  - nothing : hwee 
+  - say : ka 
+  - no : dabi 
+  - want : pɛ
+  - like : pɛ
+  - don't like : mpɛ
+  - don't want : mpɛ
+  - that : sɛ
+  - help : boa 
+  - you : wo 
+  - or : anaa
+  - to : not translated
+  - myself : me ho
+
+
+#meine freunde aind toll
+#uxch spiere mich 
+#ich bin wundervill
+#ich liebe essen 
+#ich habe schoene haare 
+#ich bin wichtig 
+#meine meinung ist wichtig 
+#nein sagen ist wichrig 
+#ich habe funkelde augen 
+#ich hoere auf mich 
+#ich achte auf mich 
+#ich avhte auf meine atmun g
+#uch habe grenzwn 
+#ich kann alles ... schaffen 
+#meine zeit ist wertvoll
+#meine hobbies sind toll

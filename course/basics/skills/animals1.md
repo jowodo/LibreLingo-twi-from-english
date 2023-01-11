@@ -12,4 +12,4 @@ abdeɛfg
 hiklmoɔ  
 prstuvy  
 
-Listem to the [classic](https://youtu.be/watch?v=sI_TjqbIHfU) and [new](https://youtu.be/watch?v=RC0gV9p7US8) Twi alphabet songs.
+Listen to the [classic](https://youtu.be/watch?v=sI_TjqbIHfU) and [new](https://youtu.be/watch?v=RC0gV9p7US8) Twi alphabet songs.

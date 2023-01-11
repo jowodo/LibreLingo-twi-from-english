@@ -1,0 +1,139 @@
+Skill:
+  Name: Numbers 0 - 10
+  Id: twi-numbers-0-10
+  Thumbnails:
+    - one1
+    - two1
+    - three1
+
+New words:
+  - Word: baako
+    Synonyms:
+      - akokɔnam
+    Translation: one
+    #    Also accepted:
+    #  - 1
+    Images:
+      - one1
+      - one2
+      - one3
+
+  - Word: mmienu
+    Translation: two
+    #Also accepted:
+    #  - 2
+    Images:
+      - two1
+      - two2
+      - two3
+
+  - Word: mmiɛnsa
+    Translation: three
+    #Also accepted:
+    #  - 3
+    Images:
+      - three1
+      - three2
+      - three3
+
+  - Word: ɛnan
+    Synonyms:
+      - nan
+    Translation: four
+    #Also accepted:
+    #  - 4
+    Images:
+      - four1
+      - four2
+      - four3
+
+  - Word: enum
+    Synonyms:
+      - num
+    Translation: five
+    #Also accepted:
+    #  - 5
+    Images:
+      - five1
+      - five2
+      - five3
+
+  - Word: nsia
+    Translation: six
+    #Also accepted:
+    #  - 6
+    Images:
+      - six1
+      - six2
+      - six3
+
+  - Word: nson
+    Translation: seven
+    #Also accepted:
+    #  - 7
+    Images:
+      - seven1
+      - seven2
+      - seven3
+
+  - Word: nwɛtwe
+    Translation: eight
+    #Also accepted:
+    #  - 8
+    Images:
+      - eight1
+      - eight2
+      - eight3
+
+  - Word: nkron
+    Translation: nine
+    #Also accepted:
+    #  - 9
+    Images:
+      - nine1
+      - nine2
+      - nine3
+
+  - Word: du
+    Synonyms:
+      #Also accepted:
+      #- 10
+      - edu
+    Translation: ten
+    Images:
+      - ten1
+      - ten2
+      - ten3
+
+Phrases: 
+  - Phrase: nda nwɔtwe
+    Translation: eight days
+    #    Alternative translations:
+    ##  - 8 days 
+
+  - Phrase: me wɔ nnua enum
+    Alternative versions:
+      - me wɔ nnua num
+    Translation: I have five siblings
+
+  - Phrase: me wɔ kraman baako
+    Alternative versions:
+      - Ɛyɛ kra.
+    Translation: I have one dog
+
+Two-way-dictionary:
+  - one : baako
+  - two : mmiɛnu
+  - three : mmiensa
+  - four : ɛnan 
+  - five : enum 
+  - six : nsia 
+  - seven : nson 
+  - eight : nwɔtwe 
+  - nine : nkron 
+  - ten : du
+  - days : nda 
+  - I : me 
+  - have : wɔ
+  - siblings : nnua
+  - dog : kraman 
