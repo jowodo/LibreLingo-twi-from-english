@@ -39,36 +39,34 @@ Each module should have:
 - sentences and dialogue excerpts 
 	
 Grammar to be included into modules and skills: 
---------
-	- yɛ vs wɔ
-	- ne vs na
-	- negation 
-	- tenses fut, pres. cont., past, perfect 
-	- plural 
-	- negations 
-	- prepositions 
-	- questions (sentence order)
-	- conjunctions
-	- possesive pronouns 
-	- articles (no, bi, wei, yi)
-	- personal pronouns (obi, obiara, obiara en)
-	- numbers
-	- cardinal numbers
+-----------------------------------------------
+- yɛ vs wɔ
+- ne vs na
+- negation 
+- tenses fut, pres. cont., past, perfect 
+- plural 
+- negations 
+- prepositions 
+- questions (sentence order)
+- conjunctions
+- possesive pronouns 
+- articles (no, bi, wei, yi)
+- personal pronouns (obi, obiara, obiara en)
+- numbers
+- cardinal numbers
 
 Words to include:
 -----------------
-**verbs**: ko, ba, firi, nante, dane, dwene, twere, kenkan, kan, kyere, hwoma, kasa, ka, te, te ase, to dwom, di, didi, nua, nom
-**adjectives**: foforo, fefeefe, kesie, dendeende	#grammar
-**adverbs**: nso, seisei, sesiara, dabiara, okyena, enora, nawotwe
+**verbs**: ko, ba, firi, nante, dane, dwene, twere, kenkan, kan, kyere, hwoma, kasa, ka, te, te ase, to dwom, di, didi, nua, nom  
+**adjectives**: foforo, fefeefe, kesie, dendeende	
+**adverbs**: nso, seisei, sesiara, dabiara, okyena, enora, nawotwe  
 
 ## Useful LiLi links
 
-https://github.com/RGBradley/LibreLingo-EU-from-EN
-https://github.com/LibreLingo/LibreLingo/discussions/2187
-https://github.com/LibreLingo/LibreLingo/blob/main/docs/courses/editing-courses.md
-https://github.com/pur80a/LibreLingo
-
-## todo
+https://github.com/RGBradley/LibreLingo-EU-from-EN  
+https://github.com/LibreLingo/LibreLingo/discussions/2187  
+https://github.com/LibreLingo/LibreLingo/blob/main/docs/courses/editing-courses.md  
+https://github.com/pur80a/LibreLingo  
 
 Usful links: 
 ------------
@@ -133,19 +131,18 @@ yarn web dev
 ```
 
 feedback
-- mehr saetze 
-- frueh coole saetze : affirmations, citate 
-- lustige sachen, memes 
-- fuer alltag nuetzliche sachen 
+- more sentences
+- early cool sentences : affirmations, quotations, proverbs 
+- funny things, memes
+- useful things for day to day usage
 - pronomes & affirmations 
-- essen und rezepte 
-- koerper umd movements 
-- deine augen sind gross
-- affirmation = pronomen + adjektive 
-- affirmation, dann fuehlt man sich gut 
-- zahlen + obst
-- farben
-- trocken und saftige skills abwechselnd 
-- wenn kein bild passt nur ein bild aussuchen, damit anker
+- food and recipes
+- body umd movements 
+- your eyes are big
+- affirmation = pronouns + adjectives 
+- affirmations, then one feels better
+- numbers + fruits
+- colors
+- dry and juicy skills alernately
+- if no picture fits, choose a single pic as memory anchor
 
-proverbs > conjunctions, plurals, verbs, nouns, tenses, pronouns >
