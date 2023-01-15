@@ -87,7 +87,6 @@ Phrases:
   - Phrase: Akura no yɛ ketewa
     Translation: The mouse is small
           
-Phrases: 
   - Phrase: Ɛsono no yɛ kɛse 
     Alternative versions:
       - Ɛsono no yɛ kɛseɛ
@@ -95,7 +94,6 @@ Phrases:
       - Ɛsono no yɛ kɛse
     Translation: The elephant is big
           
-Phrases: 
   - Phrase: Ɛyɛ ɔkra
     Alternative versions:
       - Ɛno yɛ ɔkra
@@ -122,3 +120,4 @@ Two-way-dictionary:
   - it : ɛ 
   - is : yɛ
   - the : no
+  - elephant : ɛsono

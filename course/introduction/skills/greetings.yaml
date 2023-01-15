@@ -16,9 +16,10 @@ New words:
       - thankyou2
       - thankyou3
 
-  - Word: mepaakyew
+  - Word: me pa wo kyew
     Synonyms:
-      - me pa wo kyew
+      - mepaakyew
+      - me paa kyew
     Translation: please
     Images:
       - please1
@@ -52,7 +53,22 @@ Phrases:
     Translation: All good
 
   - Phrase : Me da wo ase 
+    Alternative versions:
+      - medaase 
     Translation : thank you 
+    Alternative translation: 
+      - I thank you
+
+  - Phrase : Yɛn da wo ase 
+    Alternative versions:
+      - Yɛ da wo ase
+    Translation : we thank you 
+
+  - Phrase : Me da mo ase 
+    Translation : I thank youall
+    Alternative translation: 
+      - I thank you
+      - thank youall
 
 Mini-dictionary:
   English:

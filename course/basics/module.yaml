@@ -2,13 +2,7 @@ Module:
   Name: "Basics"
 
 Skills:
-#- alphabet.yaml
-# - diagraphs.yaml
   - animals1.yaml
   - animals2.yaml
   - pronouns.yaml
-  - greetings.yaml
   - affirmations.yaml
-  - numbers.yaml
-# - food.yaml
-# - basic-nouns.yaml
