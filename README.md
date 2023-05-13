@@ -80,6 +80,10 @@ Usful links:
     - Anki flashcard decks: [conversation](https://ankiweb.net/shared/info/1863265353), [phrases around the house](https://ankiweb.net/shared/info/1898840477), [market](https://ankiweb.net/shared/info/1587304533) and [greetings (not hosted on ankiweb.net anymore)](https://wlankabel.at/john/cloud/twi/Twi_-_Greeting__Responses.apkg) 
     - [twi courses with syllabus](https://www.amesall.rutgers.edu/academics/undergraduate-program/course-descriptions) 
     - [bible in asante twi](https://www.bible.com/bible/2094/GEN.1.ASNA) (Baoulé and fanti are also available)
+    - [Qur'an in twi and arab](https://www.alislam.org/quran/Holy-Quran-Asante.pdf) 
+    - [twi dictionary in tabular form](https://web.archive.org/web/20120318225329/http://abibitumikasa.com:80/all.html)
+    - [iOS keyboard for Twi, Fante, Ewe and Ga](http://nkyea.com/keyboard.html)
+    - [macOS keyboard layout](https://blog.wlankabel.at/2022/05/24/custom-keyboard-layout-macos/) 
 
 ToDos: 
 ------
