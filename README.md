@@ -86,6 +86,8 @@ Usful links:
     - [twi dictionary in tabular form](https://web.archive.org/web/20120318225329/http://abibitumikasa.com:80/all.html)
     - [iOS keyboard for Twi, Fante, Ewe and Ga](http://nkyea.com/keyboard.html)
     - [macOS keyboard layout](https://blog.wlankabel.at/2022/05/24/custom-keyboard-layout-macos/) 
+    - [Universal declaration of Human Rights in Twi](https://www.unicode.org/udhr/d/udhr_aka_asante.html)
+    - [Jehowa's Witnes's website in Twi](https://www.jw.org/tw/)
 
 ToDos: 
 ------
